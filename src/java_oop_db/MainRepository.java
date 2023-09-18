@@ -6,7 +6,7 @@ import java.util.List;
 
 public class MainRepository {
     private static final String DB_USER = "postgres";
-    private static final String DB_PASSWORD = "Ваш пароль";
+    private static final String DB_PASSWORD = "gjhfqr102";
     private static final String DB_URL = "jdbc:postgresql://localhost:5432/testdb";
 
     public static void main(String[] args) throws Exception{
